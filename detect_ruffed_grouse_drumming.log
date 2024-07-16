@@ -1,0 +1,14 @@
+2024-07-16 19:04:31.059204: Started script
+2024-07-16 19:04:33.647185: Ruffed grouse detection on sample_dataset
+dataset sample_dataset has 2 files
+Filtered dataset by date: now has 2 files
+Filtered dataset by start times: now has 2 files
+2024-07-16 19:04:35.762905: calculating survey effort
+Skipping completed files: 2 files left to analyze
+:job_id:01000000
+:task_name:analyze
+:task_name:analyze
+2024-07-16 19:04:37.729055: Running detections
+2024-07-16 19:04:37.730673: Progress: 1/2 complete after 0.00 minutes
+2024-07-16 19:04:37.731241: Progress: 2/2 complete after 0.00 minutes
+2024-07-16 19:04:37.731256: Completed all files. Results in: ./results
